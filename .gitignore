@@ -1,0 +1,7 @@
+# 秘密鍵・状態ファイルは絶対にコミットしない
+identity.pem
+*.pem
+did.txt
+nonce_state.json
+agent_state.json
+__pycache__/
